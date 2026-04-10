@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">DFkz - Vrx</h1>
 
-<!--
-**3zby/3zby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend-focused developer.<br/>
+I build systems, APIs, and things that need to be solid, fast, and correct.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+Into backend, systems, and low-level logic.  
+I care about how things work under the hood, performance, and not writing sloppy code.
+---
+
+### Tech I Actually Use
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+---
+
+### Focus
+- Backend & API design  
+- Databases and SQL logic  
+- Performance and clean architecture  
+- Security-aware development  
+
+---
+
+Focused on backend systems and long-term projects.
